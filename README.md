@@ -6,8 +6,6 @@
 
 专享优惠码`11meigui`, 享九折优惠。
 
-<img width="1070" alt="image" src="https://github.com/user-attachments/assets/fd7bf50c-bfd9-423f-9183-781d1587b872">
-
 
 ### 保护您的在线隐私
 
@@ -24,6 +22,8 @@
 ### 灵活的套餐选择
 
 一枝红杏提供两种VPN套餐：Trojan Lite和Trojan Pro。Trojan Lite套餐提供1000 Mbps的高速访问，100G的月流量，以及5台设备的限制。而Trojan Pro则提供500G的月流量，无设备数量限制，以及其他高级功能。用户可以根据自己的需求和预算选择合适的套餐。
+
+<img width="1070" alt="image" src="https://github.com/user-attachments/assets/fd7bf50c-bfd9-423f-9183-781d1587b872">
 
 ### 全球服务器节点
 
